@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+.menu li {
+	margin-bottom:10px;
+}
+.menu>h3:first-child {
+	margin-top:0px;
+}
+.container {
+	margin-top:30px;
+}
+.book {
+	height:300px;
+	overflow:hidden;
+}
+.book h2 {
+	font-size:12px;
+}
